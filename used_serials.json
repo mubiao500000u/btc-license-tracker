@@ -1,5 +1,13 @@
 {
-  "used_serials": [],
-  "used_info": {},
-  "last_update": "cleaned for fresh test"
+  "used_serials": [
+    10001
+  ],
+  "used_info": {
+    "10001": {
+      "device_id": "0C9602F9D665BDD7",
+      "type": "MONTH",
+      "time": "2026-09-03 00:25:51"
+    }
+  },
+  "last_update": "2026-09-03 00:25:51"
 }
