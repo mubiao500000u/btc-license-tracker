@@ -1,25 +1,5 @@
 {
-  "used_serials": [
-    99901,
-    99902,
-    99903
-  ],
-  "used_info": {
-    "99901": {
-      "device_id": "0C9602F9D665BDD7",
-      "type": "PERM",
-      "time": "2026-09-03 00:11:52"
-    },
-    "99902": {
-      "device_id": "0C9602F9D665BDD7",
-      "type": "MONTH",
-      "time": "2026-09-03 00:10:11"
-    },
-    "99903": {
-      "device_id": "0C9602F9D665BDD7",
-      "type": "PERM",
-      "time": "2026-09-03 00:10:56"
-    }
-  },
-  "last_update": "2026-09-03 00:11:52"
+  "used_serials": [],
+  "used_info": {},
+  "last_update": "cleaned"
 }
