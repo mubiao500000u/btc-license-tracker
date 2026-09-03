@@ -1,5 +1,13 @@
 {
-  "used_serials": [],
-  "used_info": {},
-  "last_update": "cleaned - fresh start"
+  "used_serials": [
+    301
+  ],
+  "used_info": {
+    "301": {
+      "device_id": "0C9602F9D665BDD7",
+      "type": "PERM",
+      "time": "2026-09-03 09:32:07"
+    }
+  },
+  "last_update": "2026-09-03 09:32:07"
 }
